@@ -19,6 +19,5 @@ const CONFIG = {
     mess: 'IU empe nhiều 🥰. Yêu yêu nhiều nhiều 😘😘',
     messDesc: 'Noel tối nay, a qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: '    messLink: 'file:///E:/EMPEIU/-Merry-Christmas-to-my-crush-main/-Merry-Christmas-to-my-crush-main/kv1/timeline.html' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-
+    messLink: '    messLink: 'https://call-mesteve.github.io/demo1/' 
 }
